@@ -1,0 +1,15 @@
+{
+  "name": "adventjs-2023",
+  "version": "1.0.0",
+  "description": "This is the repository of FReptar0 for AdventJS 2023",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AdventJS-2023"
+  },
+  "author": "FReptar0",
+  "license": "ISC"
+}
